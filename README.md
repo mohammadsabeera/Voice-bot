@@ -22,4 +22,4 @@ This bot can take voice input from the user and respond with speech output.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/voice-bot.git
+git clone https://github.com/your-mohammadsabeera/voice-bot.git
